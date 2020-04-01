@@ -1,4 +1,4 @@
-# Google Earth ancient structure borders
+# Google Earth historical structure borders
  kmz files that shows ancient structure borders on google earth
  
  Examples: 
